@@ -101,7 +101,7 @@ nav {
 	padding-top: 50px;
 	text-align: center;
 	padding-bottom: 70px;
-	border-bottom: 2px solid orange;
+	
 }
 .kicker h2{
 	margin-top: 70px;
@@ -125,9 +125,118 @@ nav {
 	color: #666;
 }
 
+.three-columns {
+	background-color: #fff;
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
 
 
+.container-grid {
+	display: flex;
+	margin: 0 auto;
+	width: 1100px;
+	text-align: center;
+}
 
+.test {
+	float: left;
+	margin-left: 80px;
+
+}
+
+.test p {
+	line-height: 1.4;
+	color: #666;
+}
+
+.w-m {
+	margin-left: 0;
+}
+
+.test a {
+	padding: 15px 15px;
+	position: relative;
+	top: 15px;
+	text-decoration: none;
+	color: #fff;
+	background-color: rgba(105,171,207, 0.4);
+	font-size: 12px;
+	transition:all 0.6s ease-in-out;
+}
+
+.test a:hover {
+		background-color: rgba(105,171,207, 1);
+
+}
+
+.grey-line1 {
+	height: 2px;
+	background-color: rgba(204, 204, 204, 0.4);
+	width: 1100px;
+	margin: 0 auto;
+	position: relative;
+	top: 80px;
+}
+
+.col4  {
+	float: left;
+	margin-left: 100px;
+}
+
+.columns {
+	background-color: #fff;
+	height: 350px;
+	width: 100%;
+	padding-top: 105px;
+}
+
+.col {
+	margin-left: 0;
+}
+
+.col4 h3 {
+	text-align: center;
+	font-size: 15px;
+	font-weight: 900;
+}
+
+.col4 p {
+	color: #666;
+	line-height: 1.5;
+}
+
+.col4 a {
+	text-decoration: none;
+	position: relative;
+	top: 30px;
+	padding: 15px 15px;
+	color: #fff;
+	background-color: rgba(105,171,207, 0.4);
+	transition:all 0.6s ease-in-out;
+
+}
+
+.col4 a:hover {
+	background-color: rgba(105,171,207, 1);
+}
+
+.grey-line2 {
+	height: 2px;
+	background-color: rgba(204, 204, 204, 0.4);
+	width: 1100px;
+	margin: 0 auto;
+	position: relative;
+	top: 150px;
+}
+
+
+.contact {
+	height: 200px;
+	width: 100%;
+	background-color: rgba(227,240,246, 1);
+	padding-top: 55px;
+}
 
 
 
